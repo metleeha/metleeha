@@ -1,4 +1,34 @@
-### Hi there 👋
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha)](https://hits.seeyoufarm.com)
+
+</div>
+
+### Cloud Software Developer :whale:
+
+ - Junior software engineer/web developer skilled in modern cloud tech
+
+### Interest 
+
+ - Deep dive into cloud native 
+ - Developing application services using python AI/ML
+ - Developing multicloud platform and improve UI/UX
+ 
+### Strength
+
+ - :rocket: Fast leaner
+ - :sparkles: Good at adapting to new challenges
+ - :raised_hands: A supportive team player
+ 
+ 
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://metleeha.tistory.com/)](https://metleeha.tistory.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hadongme/)](https://www.linkedin.com/in/hadongme/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hadongme@gmail.com)](mailto:hadongme@gmail.com)
+
+</div>
 
 <!--
 **metleeha/metleeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
