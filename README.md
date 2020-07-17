@@ -11,9 +11,9 @@
 
 ### Interest 
 
- - Deep dive into cloud native 
- - Developing application services using python AI/ML
- - Developing multicloud platform and improve UI/UX
+ - Deep dive into cloud native
+ - Become a full-stack developer
+ - Optimizing DevOps tech with AI/ML
  
 ### Strength
 
