@@ -9,6 +9,9 @@
 
  - Junior software engineer/web developer skilled in modern cloud tech
 
+![metleeha's github stats](https://github-readme-stats.vercel.app/api?username=metleeha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metleeha&layout=compact)](https://github.com/CODEMCD/github-readme-stats)
+
 ### Interest 
 
  - Deep dive into cloud native
