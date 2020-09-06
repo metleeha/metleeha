@@ -5,7 +5,7 @@
 
 </div>
 
-### Cloud Software Developer :whale:
+### Hadong Lee :whale:
 
  - software engineer/web developer skilled in modern cloud tech
 
