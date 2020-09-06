@@ -7,13 +7,14 @@
 
 ### Cloud Software Developer :whale:
 
- - Junior software engineer/web developer skilled in modern cloud tech
+ - software engineer/web developer skilled in modern cloud tech
 
 ### Interest 
 
  - Deep dive into cloud native
  - Become a full-stack developer
  - Optimizing DevOps tech with AI/ML
+ + Distributed System & Big Data Engineering
  
 ### Strength
 
