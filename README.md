@@ -14,7 +14,7 @@
  - Deep dive into cloud native
  - Become a full-stack developer
  - Optimizing DevOps tech with AI/ML
- + Distributed System & Big Data Engineering
+ +) Distributed System & Big Data Engineering
  
 ### Strength
 
