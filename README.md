@@ -11,9 +11,9 @@
 
 ### Interest 
 
- - AI/ML
  - Deep dive into cloud native
  - Become a full-stack developer
+ - Data Engineering 
  
 ### Strength
 
