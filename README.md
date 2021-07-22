@@ -9,25 +9,26 @@ Daily routine :coffee:,👩‍💻,🧘
 <h3 align="center">✨ Tech Stack ✨ </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white"/>&nbsp;&nbsp; -->
+<!--   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=flat-square&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
-  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
-  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
+<!--   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp; -->
+<!--   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=fflat-square&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp; -->
 </p>
 
 <h3 align="center">•••</h3>
@@ -35,10 +36,8 @@ Daily routine :coffee:,👩‍💻,🧘
 <p align="center" align="right">
   <a target="_blank" href="https://hadong.dev/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat-square&logo=github&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://metleeha.tistory.com"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center" align="right">
-    <a target="_blank" href="https://www.linkedin.com/in/hadongme/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
-    <a target="_blank" target="_blank"href="https://twitter.com/hadonglee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/hadongme/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" target="_blank"href="https://twitter.com/hadonglee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:hadongme@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
