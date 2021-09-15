@@ -43,6 +43,13 @@ Daily routine :coffee:,👩‍💻,🧘
 <p align="center">
   <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
+    
+<!-- <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=metleeha&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&count_private=true&include_all_commits=true" />
+  </a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metleeha&theme=gruvbox_duo" alt="metleeha" />
+</p> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
