@@ -1,19 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HaDong%20Lee&fontSize=90)
-
-<h3 align="center"> 👋 Hi there,</h3>
+<!-- Hit Count  -->
 <p align="center">
-I'm HaDong Lee, a full-stack developer. 🌱 <br>
-Daily routine :coffee:,👩‍💻,🧘
+  <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
 
-<h3 align="center">✨ Tech Stack ✨ </h3>
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HaDong%20Lee&fontSize=90)
+ -->
+<h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
+I'm HaDong Lee, a junior software engineer. 🌱 <br>
+<!-- Daily routine :coffee:,👩‍💻,🧘 <br> -->
+BlockChain, DevOps, UI/UX ✨
+</p>
+
+<!-- <h3 align="center">✨ Tech Stack ✨ </h3>
+ -->
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
-</p>
+</p> -->
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp; -->
 <!--   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white"/>&nbsp;&nbsp; -->
@@ -31,28 +37,27 @@ Daily routine :coffee:,👩‍💻,🧘
 <!--   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp; -->
 </p>
 
-<h3 align="center">•••</h3>
-
+<!-- <h3 align="center">•••</h3>
+ -->
 <p align="center" align="right">
-  <a target="_blank" href="https://hadong.dev/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat-square&logo=github&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
+<!--   <a target="_blank" href="https://hadong.dev/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat-square&logo=github&locoColor=white"</a>&nbsp;&nbsp;&nbsp; -->
   <a target="_blank" href="https://metleeha.tistory.com"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/hadongme/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" target="_blank"href="https://twitter.com/hadonglee"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:hadongme@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">
-  <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
-</p>
     
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=metleeha&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&count_private=true&include_all_commits=true" />
   </a>
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metleeha&theme=gruvbox_duo" alt="metleeha" />
-</p> -->
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
-
+<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
+ -->
 <!--
 **metleeha/metleeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
