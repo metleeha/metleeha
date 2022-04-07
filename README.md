@@ -52,9 +52,9 @@ BlockChain, DevOps, UI/UX ✨
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=metleeha&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&count_private=true&include_all_commits=true" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metleeha&theme=gruvbox_duo" alt="metleeha" />
-</p>
+</p> -->
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
  -->
