@@ -1,12 +1,12 @@
 <!-- Hit Count  -->
-<p align="center">
+<p>
   <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HaDong%20Lee&fontSize=90)
  -->
-<h3 align="center"> 👋 Hi there,</h3>
-<p align="center">
+<h3> 👋 Hi there,</h3>
+<p>
 I'm HaDong Lee, a junior software engineer. 🌱 <br>
 <!-- Daily routine :coffee:,👩‍💻,🧘 <br> -->
 BlockChain, DevOps, UI/UX ✨
@@ -39,7 +39,7 @@ BlockChain, DevOps, UI/UX ✨
 
 <!-- <h3 align="center">•••</h3>
  -->
-<p align="center" align="right">
+<p>
 <!--   <a target="_blank" href="https://hadong.dev/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat-square&logo=github&locoColor=white"</a>&nbsp;&nbsp;&nbsp; -->
   <a target="_blank" href="https://metleeha.tistory.com"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/hadongme/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
@@ -47,7 +47,7 @@ BlockChain, DevOps, UI/UX ✨
   <a target="_blank" href="mailto:hadongme@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
     
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=metleeha&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&count_private=true&include_all_commits=true" />
   </a>
