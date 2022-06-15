@@ -4,7 +4,6 @@
 <p>
 I'm HaDong Lee, a junior software engineer. 🌱 <br>
 <!-- Daily routine :coffee:,👩‍💻,🧘 <br> -->
-BlockChain, DevOps, UI/UX ✨
 </p>
 
 <!-- <h3 align="center">✨ Tech Stack ✨ </h3>
