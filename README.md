@@ -2,8 +2,7 @@
  -->
 <h3> 👋 Hi there,</h3>
 <p>
-I'm HaDong Lee, a junior software engineer. 🌱 <br>
-<!-- Daily routine :coffee:,👩‍💻,🧘 <br> -->
+I'm HaDong Lee, a developer who likes to travel and try new things. <br>
 </p>
 
 <!-- <h3 align="center">✨ Tech Stack ✨ </h3>
@@ -44,9 +43,9 @@ I'm HaDong Lee, a junior software engineer. 🌱 <br>
 </p>
     
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=metleeha&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&count_private=true&include_all_commits=true" />
-  </a>
+  </a> -->
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metleeha&layout=compact)](https://github.com/metleeha/github-readme-stats)
