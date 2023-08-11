@@ -40,8 +40,6 @@ Cheers to code and beyond! 🌈
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -60,19 +58,19 @@ Cheers to code and beyond! 🌈
 
 ```text
 🌞 Morning                1100 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-🌆 Daytime                3581 commits        ███████████████░░░░░░░░░░   61.41 % 
+🌆 Daytime                3581 commits        ███████████████░░░░░░░░░░   61.40 % 
 🌃 Evening                883 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+🌙 Night                  268 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1199 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Tuesday                  1156 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Tuesday                  1156 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
 Wednesday                831 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 Thursday                 1448 commits        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
 Friday                   894 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Saturday                 151 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Saturday                 152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 Sunday                   152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
@@ -83,15 +81,6 @@ Sunday                   152 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -107,12 +96,8 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/metleeha/metleeha/master/assets/bar_graph.png)
-
-
- Last Updated on 11/08/2023 15:36:48 UTC
+ Last Updated on 11/08/2023 15:44:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
