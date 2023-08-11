@@ -6,9 +6,8 @@
 - 💬 Ask me about **TypeScript**, **React**, **Docker**, **AWS**🚢<br>
 - ⚡ Fun fact: Big Fan of Sports ⚽️🤿⛷🏊🏽‍♀️🧗🏽🏄🏽🧘🏽
 - 🤝 Let's connect on LinkedIn, GitHub for geeky chats! 📲🤖
-<!-- - ✈️ I'm a remotely working freelance developer, coding worldwide 🌍<br> 
-- 🐾 Animal lover🐶😺<br>
--->
+<!-- - ✈️ I'm a remotely working freelance developer, coding worldwide 🌍
+🐾 Animal lover🐶😺 -->
 
 Cheers to code and beyond! 🌈
 
