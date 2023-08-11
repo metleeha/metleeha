@@ -5,7 +5,6 @@ on:
   schedule:
     # Runs at 12am UTC
     - cron: "0 0 * * *"
-
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -15,10 +14,6 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # meta
-          API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: metleeha/metleeha
-          # content
           SHOW_LINES_OF_CODE: True
           SHOW_TOTAL_CODE_TIME: True
           SHOW_DAYS_OF_WEEK: True
