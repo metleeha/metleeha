@@ -38,15 +38,81 @@ Cheers to code and beyond! 🌈
 ## ⚡️ Activities
 #### 🛠 Weekily development breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-```all_time
-From: 04 August 2023 - To: 11 August 2023
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
-Total Time: 0 secs
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
-No activity tracked
+**🐱 My GitHub Data** 
+
+> 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 144 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 52 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1100 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌆 Daytime                3581 commits        ███████████████░░░░░░░░░░   61.41 % 
+🌃 Evening                883 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+🌙 Night                  267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1199 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Tuesday                  1156 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Wednesday                831 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Thursday                 1448 commits        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+Friday                   894 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 151 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Sunday                   152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   24 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               20 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/metleeha/metleeha/master/assets/bar_graph.png)
+
+
+ Last Updated on 11/08/2023 15:36:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
