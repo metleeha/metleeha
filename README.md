@@ -3,11 +3,12 @@
 - 🛠️ I'm currently working on **Side Projects**
 - 🌱 I'm currently learning **Unity**, Blender 🎮🎨
 - 🔭 I'm interested in AI, ML, AR/VR, WebApp
-- ✈️ I'm a remotely working freelance developer, coding worldwide 🌍<br>
 - 💬 Ask me about **TypeScript**, **React**, **Docker**, **AWS**🚢<br>
 - ⚡ Fun fact: Big Fan of Sports ⚽️🤿⛷🏊🏽‍♀️🧗🏽🏄🏽🧘🏽
-- 🐾 Animal lover🐶😺<br>
 - 🤝 Let's connect on LinkedIn, GitHub for geeky chats! 📲🤖
+<!-- - ✈️ I'm a remotely working freelance developer, coding worldwide 🌍<br> 
+- 🐾 Animal lover🐶😺<br>
+-->
 
 Cheers to code and beyond! 🌈
 
