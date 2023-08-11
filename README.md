@@ -1,11 +1,11 @@
 # 👋 Hi there 
 - 👩🏽‍💻 Futuristic Software Engineer automating for a work-free tomorrow!🚀<br>
 - 🛠️ I'm currently working on **Side Projects**
-- 🌱 I'm currently learning **Unity**, Blender 🎮🎨
 - 🔭 I'm interested in AI, ML, AR/VR, WebApp
 - 💬 Ask me about **TypeScript**, **React**, **Docker**, **AWS**🚢<br>
+- 🌱 I'm currently learning **Unity**, Blender 🎮🎨
 - ⚡ Fun fact: Big Fan of Sports ⚽️🤿⛷🏊🏽‍♀️🧗🏽🏄🏽🧘🏽
-- 🤝 Let's connect on LinkedIn, GitHub for geeky chats! 📲🤖
+- 🤝 Let's connect on [LinkedIn](https://linkedin.com/in/hadongme), GitHub for geeky chats! 📲🤖
 <!-- - ✈️ I'm a remotely working freelance developer, coding worldwide 🌍
 🐾 Animal lover🐶😺 -->
 
