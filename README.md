@@ -39,7 +39,7 @@ Cheers to code and beyond! 🌈
 ## ⚡️ Activities
 #### 🛠 Weekily development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
 
@@ -80,7 +80,8 @@ Sunday                   110 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 mins              █████████████████████░░░░   84.18 % 
+JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,7 +97,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2023 00:52:47 UTC
+ Last Updated on 13/08/2023 00:56:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
