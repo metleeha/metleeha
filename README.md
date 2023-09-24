@@ -39,7 +39,7 @@ Cheers to code and beyond! 🌈
 ## ⚡️ Activities
 #### 🛠 Weekily development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
 
@@ -80,11 +80,11 @@ Sunday                   115 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               34 hrs 3 mins       █████████████████████████   99.72 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               34 hrs 47 mins      █████████████████████████   98.64 % 
+Bash                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +100,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2023 00:54:52 UTC
+ Last Updated on 24/09/2023 00:59:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
