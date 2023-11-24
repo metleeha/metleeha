@@ -1,7 +1,7 @@
 # 👋 Hi there 
 - 👩🏽‍💻 Futuristic Software Engineer automating for a work-free tomorrow!🚀<br>
 - 🛠️ I'm currently working on **Side Projects**
-- 🔭 I'm interested in WebApp, AI, ML, AR/VR
+- 🔭 I'm interested in Web3, AI, ML, AR/VR
 - 💬 Ask me about **TypeScript**, **React**, **Docker**, **AWS**🚢<br>
 - ⚡ Fun fact: Big Fan of Sports ⚽️🧗🏽🧘🏽🏃🏽‍♀️🏊🏽‍♀️🤿🏄🏽
 - 🤝 Let's connect on [LinkedIn](https://linkedin.com/in/hadongme), GitHub for geeky chats! 📲🤖
