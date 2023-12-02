@@ -39,7 +39,7 @@ Cheers to code and beyond! 🌈
 ## ⚡️ Activities
 #### 🛠 Weekily development breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20lines%20of%20code-blue)
 
@@ -47,7 +47,7 @@ Cheers to code and beyond! 🌈
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 668 Contributions in the Year 2023
+> 🏆 677 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,6 +55,37 @@ Cheers to code and beyond! 🌈
  > 
 > 🔑 30 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1141 commits        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+🌆 Daytime                3622 commits        ███████████████░░░░░░░░░░   61.02 % 
+🌃 Evening                865 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+🌙 Night                  308 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1237 commits        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Tuesday                  1226 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Wednesday                844 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 1477 commits        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Friday                   895 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Saturday                 153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Sunday                   104 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               9 hrs 47 mins       ████████████████████████░   97.04 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -68,7 +99,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2023 00:17:27 UTC
+ Last Updated on 02/12/2023 00:14:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
