@@ -1,11 +1,11 @@
 # 👋 Hi there 
 - 👩🏽‍💻 Futuristic Software Engineer automating for a work-free tomorrow!🚀<br>
-- 🛠️ I'm currently working on **Side Projects**
-- 🔭 I'm interested in WebApp, AI, ML, AR/VR, Web3 (everything New!)
-- 💬 Ask me about **TypeScript**, **React**, **Docker**, **AWS**🚢<br>
+- 🛠️ I'm currently working on **Three.js Project**
+- 🔭 I'm interested in WebApp, AI, AR/VR.
+- 💬 Ask me about **TypeScript**, **Three.js**, **Next.js**🚢<br>
 - ⚡ Fun fact: Big Fan of Sports ⚽️🧗🏽🧘🏽🏃🏽‍♀️🏊🏽‍♀️🤿🏄🏽
 - 🤝 Let's connect on [LinkedIn](https://linkedin.com/in/hadongme), GitHub for geeky chats! 📲🤖
-<!-- 🌱 I'm currently learning **Unity**, Blender 🎮🎨 -->
+- 🌱 I'm currently learning **Unity**, Blender 🎮🎨 
 <!-- - ✈️ I'm a remotely working freelance developer, coding worldwide 🌍
 🐾 Animal lover🐶😺 -->
 
